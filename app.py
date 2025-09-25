@@ -7,7 +7,7 @@ import os
 app = Flask(__name__)
 app.secret_key = 'clé_secrète_sécurisée'
 
-mot_de_passe = b"youssefhanae2027"
+mot_de_passe = b"youssef1997"
 hashed_password = bcrypt.hashpw(mot_de_passe, bcrypt.gensalt())
 
 allowed_commands = ["ls", "pwd", "whoami", "date", "uptime", "mkdir", "rm", "chmod", "sudo su"]
