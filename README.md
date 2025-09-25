@@ -1,1 +1,1 @@
-secureterminal
+A web-based Linux terminal that allows users to execute Linux commands directly from a web page. This project provides a secure and interactive environment for learning, testing, or managing Linux commands remotely through a browser interface.
